@@ -252,7 +252,7 @@
               <img src="assets/img/car.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/car.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
-                <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                <a href="https://github.com/PiyushBoricha4/car-animation" target="_blank" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -262,7 +262,7 @@
               <img src="assets/img/login.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/login.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
-                <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                <a href="https://github.com/PiyushBoricha4/Login-Registration-System" target="_blank" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -272,7 +272,7 @@
               <img src="assets/img/sign.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/sign.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
-                <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                <a href="https://github.com/PiyushBoricha4/Login-Registration-System" target="_blank" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -282,7 +282,7 @@
               <img src="assets/img/weather.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/weather.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
-                <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                <a href="https://github.com/PiyushBoricha4/Weather-App" target="_blank" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -292,7 +292,7 @@
               <img src="assets/img/form.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/form.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
-                <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                <a href="https://github.com/PiyushBoricha4/Login-Registration-System" target="_blank" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
